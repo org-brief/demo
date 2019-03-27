@@ -1,0 +1,36 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+###custom###
+rebel.xml
+config_center_client.log
+hs_err_pid*.log
+jenvrc
+**/node_modules/
+npm-debug.log
+.directory
+package-lock.json
+### Macbook ###
+.DS_Store
+
+
