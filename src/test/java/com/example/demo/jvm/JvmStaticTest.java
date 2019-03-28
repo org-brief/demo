@@ -1,10 +1,9 @@
 package com.example.demo.jvm;
 
 /**
- * @author wanghuan
+ * @author WH
  * Date: 2019/3/18
  * Time: 22:14
- * Email: wanghuan29@jd.com
  */
 public class JvmStaticTest {
 
